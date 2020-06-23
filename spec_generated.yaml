@@ -1,0 +1,10 @@
+app-file: server.py
+deploy-on: Container
+disk-in-gb: 128
+dns-label: demo-python
+language: python
+num-CPUs: 1
+port: 5000
+ram-in-gb: 2
+requirements-file: requirements.txt
+spec-schema-version: VERSION_30_APR_2020
