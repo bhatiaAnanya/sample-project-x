@@ -1,5 +1,5 @@
 app-file: server.py
-deploy-on: VM
+deploy-on: Container
 disk-in-gb: 128
 dns-label: demo-python
 language: python
